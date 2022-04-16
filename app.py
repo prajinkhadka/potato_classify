@@ -25,4 +25,4 @@ async def create_upload_file(file: bytes = File(...)):
     return class_label, confidence 
 
 if __name__ == "__main__":
-    uvicorn.run(app, host = 'localhost', port = 8501)
+    uvicorn.run(app, host = 'localhost', port = 8000)
