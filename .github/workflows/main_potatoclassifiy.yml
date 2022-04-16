@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'potatoClassifiy'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_56E9218289FA44A191BB0857CFB6A86A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C8404D7F4CD466A81F7D3CE3BEE29C2 }}
